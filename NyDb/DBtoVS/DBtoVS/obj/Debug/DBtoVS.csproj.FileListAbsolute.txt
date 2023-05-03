@@ -1,0 +1,10 @@
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\bin\Debug\DBtoVS.exe.config
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\bin\Debug\DBtoVS.exe
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\bin\Debug\DBtoVS.pdb
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\obj\Debug\DBtoVS.csprojAssemblyReference.cache
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\obj\Debug\DBtoVS.Form1.resources
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\obj\Debug\DBtoVS.Properties.Resources.resources
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\obj\Debug\DBtoVS.csproj.GenerateResource.cache
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\obj\Debug\DBtoVS.csproj.CoreCompileInputs.cache
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\obj\Debug\DBtoVS.exe
+C:\Users\raphael.broberg\Desktop\NyDb\DBtoVS\DBtoVS\obj\Debug\DBtoVS.pdb
